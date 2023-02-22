@@ -10,3 +10,8 @@ month_year = 02
 # Float variables
 account_balance = 10000000.43
 months_in_ga = 5.5
+
+# Boolean variables
+is_a_student = true
+has_job = false
+loves_turing = true
